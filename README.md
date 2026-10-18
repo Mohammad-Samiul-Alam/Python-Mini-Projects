@@ -1,9 +1,9 @@
 <h1 align="center">🐍 Python Mini Projects</h1>
 
 <p align="center">
-  <img src="assets/calculator.png" alt="Calculator icon" width="96" />
+  <img src="calculator.png" alt="Calculator icon" width="96" />
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/encryption.png" alt="Encryption icon" width="96" />
+  <img src="encryption.png" alt="Encryption icon" width="96" />
 </p>
 
 A collection of small, beginner-friendly Python projects built to practice core programming concepts, GUI development, and problem solving. Each project is self-contained and easy to run.
@@ -103,11 +103,10 @@ python encryption.py
 ```
 python-mini-projects/
 │
-├── assets/
-│   ├── calculator.png      # 4096×4096 icon
-│   ├── calculator.ico
-│   ├── encryption.png      # 4096×4096 icon
-│   └── encryption.ico
+├── calculator.png          # 4096×4096 icon
+├── calculator.ico
+├── encryption.png          # 4096×4096 icon
+├── encryption.ico
 │
 ├── calculator/
 │   └── calculator.py
