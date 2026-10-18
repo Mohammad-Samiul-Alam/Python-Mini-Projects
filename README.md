@@ -1,10 +1,17 @@
 <h1 align="center">🐍 Python Mini Projects</h1>
 
-<p align="center">
-  <img src="calculator.png" alt="Calculator icon" width="96" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="encryption.png" alt="Encryption icon" width="96" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <img src="calculator.png" alt="Calculator icon" width="96" /><br />
+      <b>Calculator</b>
+    </td>
+    <td align="center" width="160">
+      <img src="encryption.png" alt="Encryption icon" width="96" /><br />
+      <b>Encryption Tool</b>
+    </td>
+  </tr>
+</table>
 
 A collection of small, beginner-friendly Python projects built to practice core programming concepts, GUI development, and problem solving. Each project is self-contained and easy to run.
 
@@ -29,22 +36,18 @@ A collection of small, beginner-friendly Python projects built to practice core 
 
 | # | Project | Description | Concepts Used |
 |---|---------|-------------|---------------|
-| 1 | 🧮 **Calculator** | A simple calculator that performs basic arithmetic operations (add, subtract, multiply, divide). | Functions, GUI (Tkinter), event handling, error handling |
-| 2 | 🔐 **Encryption Tool** | Encrypts and decrypts text messages using a cipher. | String manipulation, loops, file handling, cryptography basics |
+| 1 | <img src="calculator.png" width="24" align="absmiddle" /> **Calculator** | A simple calculator that performs basic arithmetic operations (add, subtract, multiply, divide). | Functions, GUI (Tkinter), event handling, error handling |
+| 2 | <img src="encryption.png" width="24" align="absmiddle" /> **Encryption Tool** | Encrypts and decrypts text messages using a cipher. | String manipulation, loops, file handling, cryptography basics |
 
 > ➕ More projects will be added over time!
 
-### 🧮 Calculator
-
-<img src="calculator.png" alt="Calculator" width="80" align="right" />
+### <img src="calculator.png" alt="Calculator icon" width="32" align="absmiddle" /> Calculator
 
 - Clean and easy-to-use interface
 - Supports addition, subtraction, multiplication, and division
 - Handles invalid input and division by zero gracefully
 
-### 🔐 Encryption Tool
-
-<img src="encryption.png" alt="Encryption" width="80" align="right" />
+### <img src="encryption.png" alt="Encryption icon" width="32" align="absmiddle" /> Encryption Tool
 
 - Encrypt plain text into unreadable cipher text
 - Decrypt cipher text back to the original message
