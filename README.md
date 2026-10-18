@@ -36,7 +36,7 @@ A collection of small, beginner-friendly Python projects built to practice core 
 
 ### 🧮 Calculator
 
-<img src="assets/calculator.png" alt="Calculator" width="80" align="right" />
+<img src="calculator.png" alt="Calculator" width="80" align="right" />
 
 - Clean and easy-to-use interface
 - Supports addition, subtraction, multiplication, and division
@@ -44,7 +44,7 @@ A collection of small, beginner-friendly Python projects built to practice core 
 
 ### 🔐 Encryption Tool
 
-<img src="assets/encryption.png" alt="Encryption" width="80" align="right" />
+<img src="encryption.png" alt="Encryption" width="80" align="right" />
 
 - Encrypt plain text into unreadable cipher text
 - Decrypt cipher text back to the original message
